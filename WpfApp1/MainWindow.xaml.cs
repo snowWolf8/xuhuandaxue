@@ -22,6 +22,8 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+
+            Console.WriteLine("这是第二个分支");
         }
     }
 }
